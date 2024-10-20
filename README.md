@@ -3,7 +3,7 @@
 **MechanicHandTracking** é um projeto que usa Arduino e Python para controlar uma mão robótica com 5 servos, baseada em detecção de vídeo. O sistema permite movimentos precisos, imitando a manipulação humana em tempo real. É uma demonstração da integração entre hardware e software, explorando a automação e o controle de dispositivos mecânicos.
 
 ## 🎥 Vídeo Demonstrativo
-Confira o vídeo no YouTube: [Link para o vídeo](https://youtu.be/Ac7zUeninqw)
+[![Confira o vídeo no YouTube](https://i.ibb.co/yFwN7DN/Whats-App-Image-2024-10-20-at-15-51-29.jpg)](https://youtu.be/Ac7zUeninqw)
 
 ## 📦 Recursos
 - Controle de 5 servos para simular movimentos da mão.
